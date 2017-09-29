@@ -6,6 +6,7 @@ function psgpjg($pjg, $lbr)
   return $luas;
 }
 
+
 $bil1 = 5;
 $bil2 = 15;
 echo "Luas Persegi panjang dengan panjang $bil1 & lebar $bil2 = ";
