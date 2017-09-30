@@ -5,7 +5,9 @@
 <body>
   <?php
   $nama = "Dede Gunawan";
-  echo "$nama berkata \"Katakan Namamu\" ";
+  eChO '$nama berkata \"Katakan Namamu\" <br />';
+
+  eChO "$nama berkata \"Katakan Namamu\" ";
    ?>
 </body>
 </html>

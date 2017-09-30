@@ -3,5 +3,5 @@ $i = 2;
 
 do {
     echo "\$i = $i<br />";
-    $i++
+    $i++;
 } while ($i < 5);
